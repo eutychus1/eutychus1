@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eutychus A HEALTH CONSULATANT NOW
+- 👋 Hi, I’m @eutychus A HEALTH CONSULATANT 
 - 👀 I’m interested in software development, data analysis
   ...AI , machine learning 
 - current _in the process of automating workflows through n8n, learning MYSQL
